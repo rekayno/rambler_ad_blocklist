@@ -5,3 +5,4 @@ mail.rambler.ru##.tour__service-panel
 mail.rambler.ru##.rui__3MOhZ
 mail.rambler.ru##.FooterList-root-2P
 mail.rambler.ru##.AppContainer-footer-1F
+mail.rambler.ru##.rui__1g_8c
